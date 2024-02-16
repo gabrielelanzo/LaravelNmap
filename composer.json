@@ -1,5 +1,5 @@
 {
-    "name": "herzcthu/laravel-nmap",
+    "name": "gabrielelanzo/laravel-nmap",
     "description": "nmap wrapper for laravel 5.2",
     "require": {
 	"php": ">=5.3.0",
@@ -13,6 +13,10 @@
         {
             "name": "Sithu Thwin",
             "email": "sithu@thwin.net"
+        },
+        {
+            "name": "Gabriele Lanzo",
+            "email": "gabrielelanzo@gmail.com"
         }
     ],
     "minimum-stability": "dev",
